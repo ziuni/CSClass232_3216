@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<!-- 오류	1	XML 문서에는 루트 수준 요소가 포함되어야 합니다. -->
+<people>
+  <person birthday="04/16">
+    <name>이지은</name>
+    <region>서울</region>
+  </person>
+  <person birthday="09/11">
+    <name>이수연</name>
+    <region>경기</region>
+  </person>
+</people>
